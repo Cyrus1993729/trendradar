@@ -60,10 +60,6 @@ sora
 claude
 Anthropic
 
-ai
-!gai
-人工智能
-
 iphone
 ipad
 mac
